@@ -1,1 +1,0 @@
-# Custom-Basic-Management-Pack-for-Rubrik-created-with-Management-Pack-Builder
